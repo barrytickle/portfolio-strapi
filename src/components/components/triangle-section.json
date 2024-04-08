@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_components_triangle_sections",
+  "info": {
+    "displayName": "triangle_section",
+    "icon": "play"
+  },
+  "options": {},
+  "attributes": {
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "start",
+        "end"
+      ]
+    }
+  }
+}

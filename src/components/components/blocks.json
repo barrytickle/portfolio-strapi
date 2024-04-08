@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_components_blocks",
+  "info": {
+    "displayName": "Blocks"
+  },
+  "options": {},
+  "attributes": {
+    "test": {
+      "type": "string"
+    }
+  }
+}

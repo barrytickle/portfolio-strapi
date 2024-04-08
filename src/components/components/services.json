@@ -1,0 +1,39 @@
+{
+  "collectionName": "components_components_services",
+  "info": {
+    "displayName": "Services",
+    "icon": "expand",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "subtitle": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "smallText": {
+      "type": "text"
+    },
+    "webDesignText": {
+      "type": "text"
+    },
+    "webDevelopmentText": {
+      "type": "text"
+    },
+    "maintainanceText": {
+      "type": "text"
+    },
+    "images": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

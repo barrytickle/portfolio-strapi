@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_navigation_urls",
+  "info": {
+    "displayName": "URL",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "Label": {
+      "type": "string"
+    },
+    "Link": {
+      "type": "string"
+    }
+  }
+}
